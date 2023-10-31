@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @willbeasti
-- 🌱 I’m currently learning ... git and python
+- 🌱 I’m currently learning ... GIT and Python
 
 <!---
 willbeasti/willbeasti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
